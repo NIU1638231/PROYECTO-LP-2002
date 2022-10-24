@@ -10,7 +10,7 @@ class MapaSolucio : public MapaBase {
 		void getPdis(std::vector<PuntDeInteresBase*>&);
 };
 
-
+//
 
 void MapaSolucio::getPdis(std::vector<PuntDeInteresBase*>&)
 {
